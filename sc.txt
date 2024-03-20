@@ -1,0 +1,9 @@
+updateId 2
+add
+48
+99
+33
+ship
+kerosene
+show
+info

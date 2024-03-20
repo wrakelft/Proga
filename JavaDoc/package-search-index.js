@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Collections"},{"l":"comparators"},{"l":"exceptions"},{"l":"Generators"},{"l":"managers"},{"l":"managers.Command"}];updateSearchResults();
